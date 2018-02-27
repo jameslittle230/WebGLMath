@@ -1,0 +1,16 @@
+{
+    "name": "webgl-math",
+    "version": "1.0.0",
+    "description": "Interface for working with Web GL",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "James Little <littleguy23@gmail.com",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/jameslittle230/WebGLMath"
+    },
+    "homepage": "https://github.com/jameslittle230/WebGLMath",
+    "bugs": {
+      "url": "https://github.com/jameslittle230/WebGLMath/issues"
+    }
+  }

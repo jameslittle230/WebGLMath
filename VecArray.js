@@ -2,7 +2,9 @@
  * @file WebGLMath VecArray class
  * @copyright Laszlo Szecsi 2017
  */
-"use strict";
+
+
+ 
 /**
  * @class VecArray
  * @classdesc A base class for all vector arrays, gathering methods that share the same implementation in all array subclasses.

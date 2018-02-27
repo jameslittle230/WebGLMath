@@ -1,3 +1,10 @@
+let Vec1 = require('./Vec1');
+let Vec1Array = require('./Vec1Array');
+let Vec2 = require('./Vec2');
+let Vec2Array = require('./Vec2Array');
+let Vec3 = require('./Vec3');
+let Vec3Array = require('./Vec3Array');
+
 var approx = function(a, b){
   return Math.abs(a - b) < 0.01;
 };

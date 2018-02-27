@@ -2,7 +2,9 @@
  * @file WebGLMath {@link Vec3} class
  * @copyright Laszlo Szecsi 2017
  */
-"use strict";
+
+
+ 
 /**
  * @class Vec3
  * @classdesc Three-element vector of 32-bit floats. May reflect an ESSL vec3 uniform variable.

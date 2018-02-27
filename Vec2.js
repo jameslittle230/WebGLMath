@@ -2,7 +2,9 @@
  * @file WebGLMath {@link Vec2} class
  * @copyright Laszlo Szecsi 2017
  */
-"use strict";
+
+
+ 
 /**
  * @class Vec2
  * @classdesc Two-element vector of 32-bit floats. May reflect an ESSL vec2 uniform variable.
@@ -32,7 +34,7 @@ const Vec2 = function(u, v){
    * @name Vec2.prototype#storage
    * @description 2-element typed array for coordinate storage.
    * @type Float32Array
-   */  
+   */
   this.storage = new Float32Array([
     u && u.x || Number(u).valueOf() || 0,
     u && u.y || Number(v).valueOf() || 0

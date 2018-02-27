@@ -1,5 +1,6 @@
 # WebGLMath
-### A Vector math library for WebGL programming. Primarily intended for graphics education, with a focused set of features. Coded by Laszlo Szecsi for courses at the Aquincum Institute of Technology and the Budapest University of Technology and Economics.
+
+A Vector math library for WebGL programming. Primarily intended for graphics education, with a focused set of features. Coded by Laszlo Szecsi for courses at the Aquincum Institute of Technology and the Budapest University of Technology and Economics.
 
 ## Features
 

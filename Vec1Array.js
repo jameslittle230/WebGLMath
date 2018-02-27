@@ -2,7 +2,10 @@
  * @file WebGLMath Vec1Array class
  * @copyright Laszlo Szecsi 2017
  */
-"use strict";
+
+let VecArray = require('./VecArray')
+let Vec1 = require('./Vec1')
+
 /**
  * @class Vec1Array
  * @extends VecArray
